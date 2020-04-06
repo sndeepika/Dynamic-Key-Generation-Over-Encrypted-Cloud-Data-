@@ -1,8 +1,3 @@
-<%-- 
-    Document   : userlogin
-    Created on : Apr 12, 2016, 1:03:48 PM
-    Author     : RAVI
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
